@@ -1,0 +1,7 @@
+{
+  "name": "ionic-signals-rxjs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
